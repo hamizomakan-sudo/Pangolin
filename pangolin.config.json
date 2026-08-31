@@ -2,10 +2,10 @@
     "language": "vi",
     "botname": "yourname bot",
     "admins": [
-        "100049732817959",
+        "61592129355000",
         "100000113681117"
     ],
-    "prefix": ";",
+    "prefix": "-",
     "commands": {
         "youtube_search_api": "AIzaSyBDI5O0D9SHlMy8EhAyFbt5kc96WJqaFqQ"
     },
